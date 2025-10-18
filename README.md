@@ -3,7 +3,7 @@
 This repository contains the source code for the backend API of the Real-Time Resume Ecosystem. This powerful, centralized service is designed to manage user authentication and dynamically build professional resumes by integrating with various sub-platforms like hackathon portals, online course websites, and internship platforms.
 This MVP was built as a monolithic service, with plans to evolve into a full microservices architecture.
 
-**Live API Base URL:** https://resume-ecosystem-backend.onrender.com
+**Live API Base URL:  https://resume-ecosystem-backend.onrender.com**
 
 ---
 
