@@ -124,3 +124,18 @@ All endpoints require JWT Token in the Authorization header as Bearer <token>
 }
 ```
 
+### 🔮 Future Scope
+
+This project is the core of a much larger ecosystem. Upcoming plans include:
+
+- 🧩 Splitting Authentication into a dedicated microservice
+- 🚀 Adding independent Hackathon & Course Sub-Platform APIs
+- 📬 Implementing Message Queues (RabbitMQ / Kafka) for async event handling
+
+---
+
+### Testing links 
+
+- Testing-1 link: https://docs.google.com/document/d/1l0nN9kaN92Y4BsALknv22QHaVAD3okfgtNtPLsZSPs0/edit?usp=sharing
+
+- Testing-2 link: https://docs.google.com/document/d/1E57VJsC1Mb55l7lszc6YBppOvHngKQn5M5HYbaxcjqg/edit?usp=sharing
